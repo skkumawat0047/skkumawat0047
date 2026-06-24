@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, I'm Sanjay Kumawat</h1>
+<h1 align="center">Hey there 👋, I'm Sanjay Kumar Kumawat</h1>
 <h3 align="center">Full-Stack Developer · C++ Programmer · ML Enthusiast · From Rajasthan, India 🇮🇳</h3>
 
 <p align="center">
