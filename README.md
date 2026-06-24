@@ -30,11 +30,11 @@
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| 🛒 **[Project Name]** | Brief description of what it does and why it's cool | React · Node.js · MongoDB |
-| 📊 **[Project Name]** | Brief description — add your real project here | Python · Pandas · Matplotlib |
-| 🔐 **[Project Name]** | Brief description — link your GitHub repo | C++ · DSA |
+| 🧠 **[MindSaarthi – Smart Elder Care System](https://github.com/skkumawat0047/Mindsarthi)** | AI-powered elder care platform with medicine reminders, chatbot, SOS alerts, and real-time monitoring. | React.js · Node.js · MongoDB |
+| 📊 **[Insurance Price Prediction](https://github.com/skkumawat0047/Insurance-price-prediction)** | Machine learning model to predict insurance costs using customer data and data visualization. | Python · Pandas · Matplotlib |
+| 🛒 **[Grocery Shop Billing System](https://github.com/skkumawat0047/projectbill)** | Console-based billing system with product management, invoice generation, and file handling. | C++ · OOP · DSA |
 
-> 💡 *Replace the above with your real projects — link them to your GitHub repos!*
+> 💡 *Click on any project name to view the source code on GitHub.*
 
 ---
 
